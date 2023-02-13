@@ -52,6 +52,7 @@ To set up your Java development environment on a Mac, you need to install the JD
 
 3. Verify if Java is installed
 <br>
+
     ```shell
     java --version
     ```
