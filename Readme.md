@@ -9,7 +9,7 @@ Please feel free to share, fork or reach out with any feedback.
 
 # Table of Contents
 
-## Chapter 1  Introduction to Java
+## [Chapter 1  Introduction to Java](01_introduction_to_java.md)
 
 
 - Introduction to Java programming language
