@@ -45,18 +45,18 @@ To set up your Java development environment on a Mac, you need to install the JD
 <br>
 
 
-    ```bash
-    brew install --cask temurin
-    ```
+   ```shell
+   brew install --cask temurin
+   ```
 <br>
 
 3. Verify if Java is installed
 <br>
 
 
-    ```bash
-    java --version
-    ```
+  ```shell
+  java --version
+  ```
 
 <br>
 
