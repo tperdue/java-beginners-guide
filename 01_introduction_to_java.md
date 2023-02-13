@@ -42,6 +42,8 @@ To set up your Java development environment on a Mac, you need to install the JD
 <br>
 
 2. Run the following command to install the latest version of the OpenJDK:
+<br>
+
 
     ```shell
     brew install --cask temurin
